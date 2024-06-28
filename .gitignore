@@ -32,20 +32,6 @@ google-services.json
 # Android Profiling
 *.hprof
 
-# Directories
-app/build/
-app/src/androidTest/
-app/src/test/
-gradle/
-
 # Files
-app/src/main/AndroidManifest.xml
-app/src/main/java/com/example/jetpackcomposetest/
-app/src/main/res/
-app/build.gradle.kts
 app/proguard-rules.pro
-build.gradle.kts
-gradle.properties
-gradlew
-gradlew.bat
 
